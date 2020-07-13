@@ -1,9 +1,9 @@
-# 📦 Component Name - changelog
+# 📦 Pie Chart - changelog
 
-Use this repository to report bugs and get notified about changes affecting the Component Name component.
+Use this repository to report bugs and get notified about changes affecting the Pie Chart component.
 
-- [Live Demo](https://codyhouse.co/ds/components/app/component-name)
-- [Info Page](https://codyhouse.co/ds/components/info/component-name)
+- [Live Demo](https://codyhouse.co/ds/components/app/pie-chart)
+- [Info Page](https://codyhouse.co/ds/components/info/pie-chart)
 
 Before reporting a bug, please make sure to check the 'info page' of the component. 
 
